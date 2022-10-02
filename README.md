@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Aker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aker-pc&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aker-pc&theme=dark)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aker-pc&left_color=green&right_color=red)
