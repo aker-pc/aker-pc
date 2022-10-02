@@ -9,7 +9,7 @@
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aker-pc&repo=DesignModle&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 Learning: 
