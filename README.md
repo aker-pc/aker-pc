@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi Everyone 👋👋👋
+- 🔭 I’m currently working on Quantitative investment 
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on the open-source item or interesting item
+- 📫 How to reach me: hanwen.wang@foxmail.com
 
 <!--
 **aker-pc/aker-pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 Pronouns
 ![Aker's GitHub stats](https://github-readme-stats.vercel.app/api?username=aker-pc&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aker-pc&theme=dark)](https://git.io/streak-stats)
 
