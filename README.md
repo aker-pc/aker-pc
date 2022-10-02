@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ⚡ Recently Code
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/aker-pc/aker-pc/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/aker/aker/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 😄 Pronouns
 
