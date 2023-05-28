@@ -8,8 +8,8 @@
 <div align="center">
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/aker-pc/DesignModle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aker-pc&repo=DesignModle&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/aker-pc/design_learn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aker-pc&repo=design_learn&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 💪 Learning: 
